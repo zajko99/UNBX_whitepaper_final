@@ -9,7 +9,15 @@ export default {
     }, */
     chat: {
         link: 'https://unbx.gg',
-    }
+    },
+    useNextSeoProps() {
+        return {
+          titleTemplate: '%s – UNBX'
+        }
+      }
+   
+
+    
     }
 
 
