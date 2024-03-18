@@ -14,6 +14,14 @@ export default {
         return {
           titleTemplate: '%s – UNBX'
         }
+      },
+
+      editLink: {
+        component: null
+      },
+      
+      feedback: {
+        content: null
       }
    
 
