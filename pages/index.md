@@ -12,6 +12,6 @@ This whitepaper outlines our vision to merge the booming interest in NFT collect
 
 ## Core Gameplay
 
-Our core gameplay allows you to Unbox selected Boxes containing legendary NFTs collections such as CryptoPunks, Bored Ape Yacht Club, Neo Tokyo, Azuki, and more.  The rewards in the form of In-Game Currency (referred to as “IGC”) are dynamically updated to reflect the collections’ floor prices. Unbox for your own enjoyment in the **Single Player mode**, or connect with other Unboxoors and compete head-to-head in **Singles, Duos, or Three-for-All**.
+Our core gameplay allows you to Unbox selected Boxes containing legendary NFTs collections such as CryptoPunks, Bored Ape Yacht Club, Neo Tokyo, Azuki, and more.  The rewards in the form of In-Game Currency (referred to as “IGC”) are dynamically updated to reflect the collections’ floor prices. Unbox for your own enjoyment in the **Single Player mode**, or connect with other Unboxers and compete head-to-head in **Singles, Duos, or Three-for-All**.
 
 
