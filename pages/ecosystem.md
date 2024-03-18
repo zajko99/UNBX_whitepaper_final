@@ -1,9 +1,10 @@
 # Ecosystem Overview
 
-#### The UNBX ecosystem is based around the $UNBX token, In-Game Currency, as well as the NFTs that can be found on the marketplace.
+The UNBX ecosystem is based around the $UNBX token, In-Game Currency, as well as the NFTs that can be found on the marketplace.
 
-#### Users have multiple ways of acquiring IGC that is necessary to play the game:
+## Ways to aquire IGC
 
+ Users have multiple ways of acquiring IGC that is necessary to play the game:
 
 - List an NFT on the UNBX Marketplace
     - Further explained in the “Marketplace” section
