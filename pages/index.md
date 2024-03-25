@@ -1,17 +1,10 @@
-# Welcome
- 
-Welcome to UNBX - Ultimate NFT Boxes
+# **Welcome to UNBX - Ultimate NFT Boxes**
 
-## What is UNBX?
+**UNBX is more than just a game.** It is a fully functioning ecosystem characterized by an innovative marketplace and a robust, self-sustaining economy. Our platform is designed not just for entertainment but as a realm where competitive spirit thrives—thanks to leaderboard challenges and lucrative staking rewards from our foundational $UNBX token.
 
-**UNBX is more than just a game.** It is a fully functioning ecosystem with our innovative marketplace and a self-sustaining economy, including leaderboard competition rewards, as well as staking rewards from our primary $UNBX token.
+## **Core Gameplay**
 
+Dive into the core of UNBX gameplay, where you stand a chance to uncover legendary NFT collections. The stakes are high, and the rewards are real: Earn In-Game Currency (IGC) that mirrors the real-time market floor prices of these illustrious collections. Choose your adventure: revel in the thrill of discovery in **Single Player mode**, or elevate the competition by engaging with fellow Unboxoors in head-to-head challenges across **Singles**, **Duos**, or **Three-for-All** competitions.
 
-This whitepaper outlines our vision to merge the booming interest in NFT collectibles with the thrill of loot box gaming. UNBX aims to be the pinnacle hub of Unboxing games for both traditional gamers and Web3 enthusiasts alike.
-
-
-## Core Gameplay
-
-Our core gameplay allows you to Unbox selected Boxes containing legendary NFTs collections such as CryptoPunks, Bored Ape Yacht Club, Neo Tokyo, Azuki, and more.  The rewards in the form of In-Game Currency (referred to as “IGC”) are dynamically updated to reflect the collections’ floor prices. Unbox for your own enjoyment in the **Single Player mode**, or connect with other Unboxers and compete head-to-head in **Singles, Duos, or Three-for-All**.
-
-
+## **Note**
+This whitepaper outlines our vision to merge the booming interest in NFT collectibles with the thrill of loot box gaming. Our goal? To establish UNBX as the definitive Unboxing arena, appealing to both the seasoned gamers and the growing Web3 community.

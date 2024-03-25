@@ -2,8 +2,7 @@
 
 **$UNBX** is the primary on-chain token, while the In-Game Currency (**IGC**) is used to play the game itself and is not tradable outside of the UNBX game and marketplace.
 
-![Tokenomics scheme](https://i.ibb.co/ykNDtbh/tokenomics.png)
-
+![Tokenomics scheme](https://fastloyal-dev-image-storage.s3.eu-west-1.amazonaws.com//Group+1321315409+(1).png)
 
 There will be a capped supply of 150,000,000 $UNBX tokens, meaning that once this amount of tokens is minted there will be no possibility of further issuing.
 
@@ -26,7 +25,7 @@ Fundraising = 18%, distributed as:
 
 Depending on the category, $UNBX tokens are subject to cliff and vesting periods. Tokens will be distributed linearly on a monthly basis, with the following terms:
 
-| Category        | Unlocked at THE | Cliff           | Vesting         |
+| Category        | Unlocked at TGE | Cliff           | Vesting         |
 |-----------------|-----------------|-----------------|-----------------|
 |   Private Sale  | 10%             | 5 months        |  18 months      |
 | Seed Investor   | 20%             | 4 months        |  12 months      |

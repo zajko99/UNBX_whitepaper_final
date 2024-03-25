@@ -1,12 +1,17 @@
-# Reward Seasons   
+# **Reward Seasons**
 
-The most outstanding players that earn a spot on the **UNBX leaderboard** will earn seasonal rewards. The leaderboards are active in quarterly increments, after which the rewards will be sent out and the scores reset. Scoring higher on the leaderboard, naturally, brings more rewards to the user. There are 2 main ways to earn points that count towards a player’s place on the leaderboard:
+Embrace the challenge and climb the ranks of the **UNBX leaderboard** to earn exclusive seasonal rewards. With leaderboards refreshing every quarter, the race is on to secure your place at the top and reap the benefits.
 
+## **Climbing the Leaderboard**
 
-- The amount of IGC wagered in a season
-- The biggest Unboxing pull out of a single Box
+There are two primary ways to ascend the leaderboard and stand out as an elite player within the UNBX community:
 
+### **1. Seasonal IGC Wagering**
+Demonstrate your commitment by the amount of In-Game Currency (IGC) you wager throughout the season. This method reflects your active participation and dedication to exploring all that UNBX has to offer.
 
-While the first criteria is controlled by the player, it shows dedication and commitment to the UNBX platform. On the contrary, the second criteria cannot be directly influenced by the user. However, the more Boxes with high-priced items the user Unboxes, the higher their chances of getting rewarded.
+### **2. Stellar Unboxings**
+Aim for the stars with each Box you unbox. The biggest pull from a single Box could skyrocket your position on the leaderboard. While this criterion adds an element of chance, consistently unboxing high-value items increases your odds of securing a top spot.
 
-The rewards are issued as **$UNBX airdrops**, while there may be other benefits as well such as XP bonuses.
+## **Seasonal Rewards**
+
+The victors of each season will be greeted with **$UNBX token airdrops**, enhancing their in-game and on-platform prowess. Additional perks, such as XP bonuses, further sweeten the pot, offering more ways to enjoy and succeed within the UNBX ecosystem.

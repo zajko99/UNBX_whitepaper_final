@@ -1,34 +1,33 @@
-export default {
+import React from 'react'
+import { DocsThemeConfig } from 'nextra-theme-docs'
+import { Logo } from './components/logo'
 
-    logo: <span>UNBX.gg</span>,
-    footer: {
-        text: 'UNBX'
-    },
-    /* project: {
-        link: 'https://unbx.gg',
-    }, */
-    chat: {
-        link: 'https://unbx.gg',
-    },
-    useNextSeoProps() {
-        return {
-          titleTemplate: '%s – UNBX'
-        }
-      },
+const config: DocsThemeConfig = {
+  logo: (
+    <div
+      style={{
+        display: 'flex',
+        justifyContent: 'flex-start',
+        alignItems: 'center',
+      }}
+    >
+      <Logo />
+    </div>
+  ),
+  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  footer: {
+    component: null,
+  },
+  editLink: {
+    component: null,
+  },
+  feedback: {
+    content: null,
+  },
+  darkMode: true,
+  themeSwitch: {
+    component: null,
+  },
+}
 
-      editLink: {
-        component: null
-      },
-      
-      feedback: {
-        content: null
-      }
-   
-
-    
-    }
-
-
-
-
-
+export default config

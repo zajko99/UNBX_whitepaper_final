@@ -1,22 +1,26 @@
-# Gameplay
+# **Gameplay Overview**
 
-UNBX is available both as a single player game that allows the user to Unbox at their pace, and a multiplayer game in 4 modes: Singles, Duos, and Three-for-All. These game modes are played with other Unboxoors in a live setting.
+Dive into the exciting world of UNBX, whether you're here to enjoy the game at your own pace in **Single Player Mode** or ready to take on competitors in our thrilling **Multiplayer Mode**, UNBX offers a dynamic gaming experience tailored to your preferences.
 
+## **🎮 Single Player Mode:**
 
-## Single Player Mode:
+In the immersive Single Player Mode, select your preferred Box, preview its contents and probabilities, and unbox to discover your reward. Upon unboxing, the prize revealed between the on-screen indicators is yours to claim. Here's what sets our Single Player Mode apart:
 
-The classic single player mode consists of the player choosing a Box that they prefer, for the listed amount of IGC.Before the user Unboxes, they are able to see the content, and what the probabilities are for Unboxing each of the items. Once the user opens a Box, their IGC balance decreases by its price. The NFT that is located between the indicators in the middle of the screen when the rotation stops is the NFT that the user Unboxed as the reward. Unless the NFT is “Unboxable,” the player receives the amount of IGC equal to the floor price of that NFT’s collection, which is obtained and updated from NFT marketplaces in real time, thus increasing the player’s IGC balance by the determined amount. There are also Boxes that include IGC vouchers as items, making sure that we can ensure the fairness of the Boxes as precisely as possible while also being able to offer lower-priced Boxes in our selection. If a player Unboxes an IGC voucher, their IGC balance increases by the amount specified on the voucher.
+- **Dynamic IGC Pricing:** If your unboxed NFT isn't marked as "Unboxable," you'll receive IGC equal to the NFT's floor price, updated in real-time from leading NFT marketplaces.
+- **IGC Vouchers:** Some Boxes contain IGC vouchers, offering a fair chance at winning while diversifying our Box offerings with lower-priced options.
+- **Free Trial:** Test out a Box for free without keeping the reward, perfect for exploring new Boxes risk-free.
 
-Besides Unboxing using IGC, the users are able to test a Box through a free trial, but they will not keep the reward of the Box in that case.
+## **👥 Multiplayer Mode:**
 
+Engage in competitive play across three exciting formats: Singles, Duos, and Three-for-All. Battle it out with fellow Unboxers in a live setting, choosing from a variety of Box combinations for each match. Here’s a quick breakdown:
 
-## Multiplayer Mode:
+### **Singles (1v1):**
+- Head-to-head battles where the winner takes all the IGC unboxed by both players.
 
-UNBX is also available in Singles (1v1), Duos (2v2), and Three-for-All (1v1v1). The first player that creates the lobby is able to pick the combination of Boxes that is played out in that match, and the cost to join is the sum of the selected Boxes’ prices in IGC. The other players can join the match by paying the equal amount of IGC. Each lobby lists how many rounds the match has (every player opens 1 Box per round), as well as what Boxes constitute each of the rounds.
-- - Singles are played as head-to-head battles between 2 players. The player whose sum of winnings throughout all rounds is greater is rewarded with the total amount of IGC that both players Unboxed, while the losing player does not receive anything in return.
+### **Duos (2v2):**
+- Team up and combine winnings with a partner. The team with the higher total wins the cumulative IGC, split between the victors.
 
-- - Duos are played as head-to-head battles between 2 teams comprised of 2 players each. All 4 players Unbox at once, and each player’s winnings are summed up together with their teammate. The team whose sum of winnings throughout all rounds is greater is rewarded with the total amount of IGC that all players Unboxed, split evenly between the 2 winning teammates, while the losing teammates do not receive anything in return.
+### **Three-for-All (1v1v1):**
+- A thrilling free-for-all where the top unboxer wins all the IGC pooled from the participants.
 
-- - Three-for-All is played head-to-head-to-head between 3 players. The player whose sum of winnings throughout all rounds is the greatest out of the 3 is rewarded with the total amount of IGC that all players Unboxed, while the 2 losing players do not receive anything in return.
-
-Besides Unboxing using IGC, the users are able to spectate other battles.
+In addition to participating, players have the option to spectate battles, immersing themselves in the excitement of UNBX without spending IGC.
